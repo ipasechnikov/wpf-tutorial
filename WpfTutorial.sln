@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendedResourceSample", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcesFromCodeBehind", "ResourcesFromCodeBehind\ResourcesFromCodeBehind.csproj", "{43FE8251-20C7-4494-BA5A-63C02FEE987F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingSample", "ExceptionHandlingSample\ExceptionHandlingSample.csproj", "{C57A0786-8E2F-4565-91D7-2D44FA7A9AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{43FE8251-20C7-4494-BA5A-63C02FEE987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43FE8251-20C7-4494-BA5A-63C02FEE987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43FE8251-20C7-4494-BA5A-63C02FEE987F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57A0786-8E2F-4565-91D7-2D44FA7A9AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57A0786-8E2F-4565-91D7-2D44FA7A9AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57A0786-8E2F-4565-91D7-2D44FA7A9AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57A0786-8E2F-4565-91D7-2D44FA7A9AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
