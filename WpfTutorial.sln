@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingSample", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCultureSwitchSample", "ApplicationCultureSwitchSample\ApplicationCultureSwitchSample.csproj", "{09AB275E-C6E1-4A7C-B73C-0DA1F3B8757B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockSample", "TextBlockSample\TextBlockSample.csproj", "{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{09AB275E-C6E1-4A7C-B73C-0DA1F3B8757B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09AB275E-C6E1-4A7C-B73C-0DA1F3B8757B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09AB275E-C6E1-4A7C-B73C-0DA1F3B8757B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
