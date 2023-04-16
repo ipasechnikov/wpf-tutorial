@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonSample", "RadioB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonCustomContentSample", "RadioButtonCustomContentSample\RadioButtonCustomContentSample.csproj", "{70F78FDB-6AF5-45F6-8537-9268D180FE9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBoxSample", "PasswordBoxSample\PasswordBoxSample.csproj", "{EB329075-0521-4F21-8BCC-A94F0AF98DC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{70F78FDB-6AF5-45F6-8537-9268D180FE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F78FDB-6AF5-45F6-8537-9268D180FE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F78FDB-6AF5-45F6-8537-9268D180FE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
