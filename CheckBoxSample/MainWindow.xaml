@@ -1,0 +1,30 @@
+﻿<Window x:Class="CheckBoxSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="140" Width="250">
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold">Application Options</Label>
+        <CheckBox>
+            <TextBlock>
+                Enable feature <Run Foreground="Green" FontWeight="Bold">ABC</Run>
+            </TextBlock>
+        </CheckBox>
+        <CheckBox IsChecked="True">
+            <WrapPanel>
+                <TextBlock>
+                    Enable feature <Run FontWeight="Bold">XYZ</Run>
+                </TextBlock>
+                <Image Source="https://p1.hiclipart.com/preview/980/754/344/windows-live-for-xp-blue-question-mark-icon-png-clipart.jpg" Width="16" Height="16" Margin="5,0"/>
+            </WrapPanel>
+        </CheckBox>
+        <CheckBox>
+            <TextBlock>
+                Enable feature <Run Foreground="Blue" TextDecorations="Underline" FontWeight="Bold">WWW</Run>
+            </TextBlock>
+        </CheckBox>
+    </StackPanel>
+</Window>
