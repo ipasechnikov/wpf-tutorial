@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockInlineSample", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockHyperlinkSample", "TextBlockHyperlinkSample\TextBlockHyperlinkSample.csproj", "{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockSpanSample", "TextBlockSpanSample\TextBlockSpanSample.csproj", "{F1472F52-9FC2-453E-B266-9DE61ED737E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1472F52-9FC2-453E-B266-9DE61ED737E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1472F52-9FC2-453E-B266-9DE61ED737E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1472F52-9FC2-453E-B266-9DE61ED737E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1472F52-9FC2-453E-B266-9DE61ED737E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
