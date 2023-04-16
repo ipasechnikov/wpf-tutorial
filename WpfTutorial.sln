@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonCustomContentSam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBoxSample", "PasswordBoxSample\PasswordBoxSample.csproj", "{EB329075-0521-4F21-8BCC-A94F0AF98DC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlSample", "ImageControlSample\ImageControlSample.csproj", "{885D7501-3A7A-4E0C-AF8C-200971008A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB329075-0521-4F21-8BCC-A94F0AF98DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885D7501-3A7A-4E0C-AF8C-200971008A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885D7501-3A7A-4E0C-AF8C-200971008A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885D7501-3A7A-4E0C-AF8C-200971008A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885D7501-3A7A-4E0C-AF8C-200971008A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
