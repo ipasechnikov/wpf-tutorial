@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControlAdvancedSample"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxSample", "TextBoxSample\TextBoxSample.csproj", "{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxSelectionSample", "TextBoxSelectionSample\TextBoxSelectionSample.csproj", "{1FF4C92D-2CF9-49E6-B3B5-482A09156544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF4C92D-2CF9-49E6-B3B5-482A09156544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF4C92D-2CF9-49E6-B3B5-482A09156544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF4C92D-2CF9-49E6-B3B5-482A09156544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF4C92D-2CF9-49E6-B3B5-482A09156544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
