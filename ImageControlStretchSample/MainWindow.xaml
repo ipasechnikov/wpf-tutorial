@@ -1,0 +1,29 @@
+﻿<Window x:Class="ImageControlStretchSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageControlStretchSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" HorizontalAlignment="Center" FontWeight="Bold">Uniform</Label>
+        <Label Grid.Column="1" HorizontalAlignment="Center" FontWeight="Bold">UniformToFill</Label>
+        <Label Grid.Column="2" HorizontalAlignment="Center" FontWeight="Bold">Fill</Label>
+        <Label Grid.Column="3" HorizontalAlignment="Center" FontWeight="Bold">None</Label>
+        <Image Grid.Row="1" Grid.Column="0" Margin="5" Source="/Images/white_bengal_tiger.jpg" Stretch="Uniform" />
+        <Image Grid.Row="1" Grid.Column="1" Margin="5" Source="/Images/white_bengal_tiger.jpg" Stretch="UniformToFill" />
+        <Image Grid.Row="1" Grid.Column="2" Margin="5" Source="/Images/white_bengal_tiger.jpg" Stretch="Fill" />
+        <Image Grid.Row="1" Grid.Column="3" Margin="5" Source="/Images/white_bengal_tiger.jpg" Stretch="None" />
+    </Grid>
+</Window>

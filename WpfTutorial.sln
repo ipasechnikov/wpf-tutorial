@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlSample", "Image
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlCodeBehindSample", "ImageControlCodeBehindSample\ImageControlCodeBehindSample.csproj", "{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlStretchSample", "ImageControlStretchSample\ImageControlStretchSample.csproj", "{98FD2589-19D1-4644-982B-EF5C9C5E9F76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FD2589-19D1-4644-982B-EF5C9C5E9F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD2589-19D1-4644-982B-EF5C9C5E9F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD2589-19D1-4644-982B-EF5C9C5E9F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD2589-19D1-4644-982B-EF5C9C5E9F76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
