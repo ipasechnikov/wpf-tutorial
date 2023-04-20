@@ -17,43 +17,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCultureSwitchSam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBlockSample", "TextBlockSample\TextBlockSample.csproj", "{83A58331-5D55-4C74-8FAE-5AEFD57C0C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockInlineSample", "TextBlockInlineSample\TextBlockInlineSample.csproj", "{D91F88B3-6A55-4AC2-8F09-BECB1CADA8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBlockInlineSample", "TextBlockInlineSample\TextBlockInlineSample.csproj", "{D91F88B3-6A55-4AC2-8F09-BECB1CADA8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockHyperlinkSample", "TextBlockHyperlinkSample\TextBlockHyperlinkSample.csproj", "{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBlockHyperlinkSample", "TextBlockHyperlinkSample\TextBlockHyperlinkSample.csproj", "{2A1E2634-CD07-42D1-B1C0-0E5B92B8922C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockSpanSample", "TextBlockSpanSample\TextBlockSpanSample.csproj", "{F1472F52-9FC2-453E-B266-9DE61ED737E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBlockSpanSample", "TextBlockSpanSample\TextBlockSpanSample.csproj", "{F1472F52-9FC2-453E-B266-9DE61ED737E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockCodeBehindSample", "TextBlockCodeBehindSample\TextBlockCodeBehindSample.csproj", "{EDD1ACEC-49C2-4E28-B18F-010611327C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBlockCodeBehindSample", "TextBlockCodeBehindSample\TextBlockCodeBehindSample.csproj", "{EDD1ACEC-49C2-4E28-B18F-010611327C2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControlSample", "LabelControlSample\LabelControlSample.csproj", "{95CD0AFB-2711-4DDB-9B66-F7A6D835E141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabelControlSample", "LabelControlSample\LabelControlSample.csproj", "{95CD0AFB-2711-4DDB-9B66-F7A6D835E141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControlAdvancedSample", "LabelControlAdvancedSample\LabelControlAdvancedSample.csproj", "{390523ED-C365-4C36-8583-8BA8C1E36E87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabelControlAdvancedSample", "LabelControlAdvancedSample\LabelControlAdvancedSample.csproj", "{390523ED-C365-4C36-8583-8BA8C1E36E87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxSample", "TextBoxSample\TextBoxSample.csproj", "{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBoxSample", "TextBoxSample\TextBoxSample.csproj", "{A91A8EB2-7F0C-4879-A0EC-5B53A4612B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxSelectionSample", "TextBoxSelectionSample\TextBoxSelectionSample.csproj", "{1FF4C92D-2CF9-49E6-B3B5-482A09156544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBoxSelectionSample", "TextBoxSelectionSample\TextBoxSelectionSample.csproj", "{1FF4C92D-2CF9-49E6-B3B5-482A09156544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonSample", "ButtonSample\ButtonSample.csproj", "{C09170FB-A493-466D-BAC3-401F32E60360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ButtonSample", "ButtonSample\ButtonSample.csproj", "{C09170FB-A493-466D-BAC3-401F32E60360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxSample", "CheckBoxSample\CheckBoxSample.csproj", "{3573886B-7671-46C5-A7D4-774BF77930DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBoxSample", "CheckBoxSample\CheckBoxSample.csproj", "{3573886B-7671-46C5-A7D4-774BF77930DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxThreeStateSample", "CheckBoxThreeStateSample\CheckBoxThreeStateSample.csproj", "{3739943B-A5FD-4574-86A6-7B15461056FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBoxThreeStateSample", "CheckBoxThreeStateSample\CheckBoxThreeStateSample.csproj", "{3739943B-A5FD-4574-86A6-7B15461056FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonSample", "RadioButtonSample\RadioButtonSample.csproj", "{368AF678-FBB1-4AF5-95AF-C03B50B32807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioButtonSample", "RadioButtonSample\RadioButtonSample.csproj", "{368AF678-FBB1-4AF5-95AF-C03B50B32807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonCustomContentSample", "RadioButtonCustomContentSample\RadioButtonCustomContentSample.csproj", "{70F78FDB-6AF5-45F6-8537-9268D180FE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioButtonCustomContentSample", "RadioButtonCustomContentSample\RadioButtonCustomContentSample.csproj", "{70F78FDB-6AF5-45F6-8537-9268D180FE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBoxSample", "PasswordBoxSample\PasswordBoxSample.csproj", "{EB329075-0521-4F21-8BCC-A94F0AF98DC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordBoxSample", "PasswordBoxSample\PasswordBoxSample.csproj", "{EB329075-0521-4F21-8BCC-A94F0AF98DC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlSample", "ImageControlSample\ImageControlSample.csproj", "{885D7501-3A7A-4E0C-AF8C-200971008A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageControlSample", "ImageControlSample\ImageControlSample.csproj", "{885D7501-3A7A-4E0C-AF8C-200971008A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlCodeBehindSample", "ImageControlCodeBehindSample\ImageControlCodeBehindSample.csproj", "{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageControlCodeBehindSample", "ImageControlCodeBehindSample\ImageControlCodeBehindSample.csproj", "{A3FFC118-1E0D-4836-851C-A0FCDA51A3FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControlStretchSample", "ImageControlStretchSample\ImageControlStretchSample.csproj", "{98FD2589-19D1-4644-982B-EF5C9C5E9F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageControlStretchSample", "ImageControlStretchSample\ImageControlStretchSample.csproj", "{98FD2589-19D1-4644-982B-EF5C9C5E9F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolTipsSimpleSample", "ToolTipsSimpleSample\ToolTipsSimpleSample.csproj", "{E35843EF-15AB-4AF0-8FD6-7F03565AC7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolTipsSimpleSample", "ToolTipsSimpleSample\ToolTipsSimpleSample.csproj", "{E35843EF-15AB-4AF0-8FD6-7F03565AC7C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolTipsAdvancedSample", "ToolTipsAdvancedSample\ToolTipsAdvancedSample.csproj", "{9BF9E19B-D6A8-4EDC-B474-D148C34FA053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolTipsAdvancedSample", "ToolTipsAdvancedSample\ToolTipsAdvancedSample.csproj", "{9BF9E19B-D6A8-4EDC-B474-D148C34FA053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFormattingModeSample", "TextFormattingModeSample\TextFormattingModeSample.csproj", "{BB88761C-0F82-4FA5-A1EB-3C02B6C26813}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{9BF9E19B-D6A8-4EDC-B474-D148C34FA053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BF9E19B-D6A8-4EDC-B474-D148C34FA053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BF9E19B-D6A8-4EDC-B474-D148C34FA053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB88761C-0F82-4FA5-A1EB-3C02B6C26813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB88761C-0F82-4FA5-A1EB-3C02B6C26813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB88761C-0F82-4FA5-A1EB-3C02B6C26813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB88761C-0F82-4FA5-A1EB-3C02B6C26813}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
