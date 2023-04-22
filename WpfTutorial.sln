@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFormattingModeSample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRenderingModeSample", "TextRenderingModeSample\TextRenderingModeSample.csproj", "{161551BA-B728-43B9-ADB2-0C4ABA166F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabOrderSample", "TabOrderSample\TabOrderSample.csproj", "{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{161551BA-B728-43B9-ADB2-0C4ABA166F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{161551BA-B728-43B9-ADB2-0C4ABA166F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{161551BA-B728-43B9-ADB2-0C4ABA166F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
