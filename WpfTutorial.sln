@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasZIndex", "CanvasZIndex\CanvasZIndex.csproj", "{3BD1AC26-B535-4A6A-BB7C-48B17416A600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanel", "WrapPanel\WrapPanel.csproj", "{29798551-CDAA-4F60-BD99-4B81326176E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{3BD1AC26-B535-4A6A-BB7C-48B17416A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BD1AC26-B535-4A6A-BB7C-48B17416A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BD1AC26-B535-4A6A-BB7C-48B17416A600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29798551-CDAA-4F60-BD99-4B81326176E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29798551-CDAA-4F60-BD99-4B81326176E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29798551-CDAA-4F60-BD99-4B81326176E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29798551-CDAA-4F60-BD99-4B81326176E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
