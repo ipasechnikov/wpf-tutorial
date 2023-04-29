@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel", "DockPanel\Dock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", "{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabularGrid", "TabularGrid\TabularGrid.csproj", "{0CC2A851-75FB-4072-978B-02DBE2810FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC2A851-75FB-4072-978B-02DBE2810FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC2A851-75FB-4072-978B-02DBE2810FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC2A851-75FB-4072-978B-02DBE2810FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC2A851-75FB-4072-978B-02DBE2810FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
