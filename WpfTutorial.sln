@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabularGrid", "TabularGrid\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridUnits", "GridUnits\GridUnits.csproj", "{51685766-22F1-4DD2-987E-C6B987F70669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpan", "GridColRowSpan\GridColRowSpan.csproj", "{36CFCD67-62CD-49C0-82B8-E0C798E125BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{51685766-22F1-4DD2-987E-C6B987F70669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51685766-22F1-4DD2-987E-C6B987F70669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51685766-22F1-4DD2-987E-C6B987F70669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
