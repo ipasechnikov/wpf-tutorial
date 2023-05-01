@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridUnits", "GridUnits\Grid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpan", "GridColRowSpan\GridColRowSpan.csproj", "{36CFCD67-62CD-49C0-82B8-E0C798E125BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpanAdvanced", "GridColRowSpanAdvanced\GridColRowSpanAdvanced.csproj", "{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CFCD67-62CD-49C0-82B8-E0C798E125BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
