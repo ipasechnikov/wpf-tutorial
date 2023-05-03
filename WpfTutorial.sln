@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterHorizontalSampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridContactForm", "GridContactForm\GridContactForm.csproj", "{7CED7840-9CA7-46E3-A031-B723D252CEFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridContactFormTake2", "GridContactFormTake2\GridContactFormTake2.csproj", "{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{7CED7840-9CA7-46E3-A031-B723D252CEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CED7840-9CA7-46E3-A031-B723D252CEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CED7840-9CA7-46E3-A031-B723D252CEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
