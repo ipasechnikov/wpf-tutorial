@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpanAdvanced", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterSample", "GridSplitterSample\GridSplitterSample.csproj", "{92034BCD-62CA-4C51-9A36-5A18659AAD69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterHorizontalSample", "GridSplitterHorizontalSample\GridSplitterHorizontalSample.csproj", "{66F058D9-94B6-42B0-B319-2451D5846385}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{92034BCD-62CA-4C51-9A36-5A18659AAD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92034BCD-62CA-4C51-9A36-5A18659AAD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92034BCD-62CA-4C51-9A36-5A18659AAD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F058D9-94B6-42B0-B319-2451D5846385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F058D9-94B6-42B0-B319-2451D5846385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F058D9-94B6-42B0-B319-2451D5846385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F058D9-94B6-42B0-B319-2451D5846385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
