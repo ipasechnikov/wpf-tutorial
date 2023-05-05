@@ -25,5 +25,11 @@ namespace DataContextSample
             InitializeComponent();
             DataContext = this;
         }
+
+        private void btnUpdateSource_Click(object sender, RoutedEventArgs e)
+        {
+            var binding = txtWindowTitle.GetBindingExpression(TextBox.TextProperty);
+            binding.UpdateSource();
+        }
     }
 }
