@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitedInputSample", "Limit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBoundWorldSample", "HelloBoundWorldSample\HelloBoundWorldSample.csproj", "{A949B9CC-6C84-4D12-8D62-A83C497EB84A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextSample", "DataContextSample\DataContextSample.csproj", "{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{A949B9CC-6C84-4D12-8D62-A83C497EB84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A949B9CC-6C84-4D12-8D62-A83C497EB84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A949B9CC-6C84-4D12-8D62-A83C497EB84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
