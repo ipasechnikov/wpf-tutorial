@@ -61,45 +61,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRenderingModeSample", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabOrderSample", "TabOrderSample\TabOrderSample.csproj", "{6F67F28C-5A46-424D-BFA6-C9EFCF68E041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessKeysSample", "AccessKeysSample\AccessKeysSample.csproj", "{6BCCD8D6-8998-445A-A925-FA6CB351AAB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessKeysSample", "AccessKeysSample\AccessKeysSample.csproj", "{6BCCD8D6-8998-445A-A925-FA6CB351AAB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessKeysLabelTargetSample", "AccessKeysLabelTargetSample\AccessKeysLabelTargetSample.csproj", "{58CFEE88-C167-406B-981E-1FBC082A8652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessKeysLabelTargetSample", "AccessKeysLabelTargetSample\AccessKeysLabelTargetSample.csproj", "{58CFEE88-C167-406B-981E-1FBC082A8652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csproj", "{6CA26DEB-114B-44F0-9C98-02CDAC9278A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Canvas", "Canvas\Canvas.csproj", "{6CA26DEB-114B-44F0-9C98-02CDAC9278A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasZIndex", "CanvasZIndex\CanvasZIndex.csproj", "{3BD1AC26-B535-4A6A-BB7C-48B17416A600}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasZIndex", "CanvasZIndex\CanvasZIndex.csproj", "{3BD1AC26-B535-4A6A-BB7C-48B17416A600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanel", "WrapPanel\WrapPanel.csproj", "{29798551-CDAA-4F60-BD99-4B81326176E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrapPanel", "WrapPanel\WrapPanel.csproj", "{29798551-CDAA-4F60-BD99-4B81326176E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanel", "StackPanel\StackPanel.csproj", "{A3B5BED3-F1A3-4B9E-906D-58396896431A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackPanel", "StackPanel\StackPanel.csproj", "{A3B5BED3-F1A3-4B9E-906D-58396896431A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel", "DockPanel\DockPanel.csproj", "{E44857AE-6578-4C02-801B-A2AE7ECF2087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockPanel", "DockPanel\DockPanel.csproj", "{E44857AE-6578-4C02-801B-A2AE7ECF2087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", "{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid", "Grid\Grid.csproj", "{BAC4ECD9-342B-4CF0-BC3D-BB5CA1CFEB80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabularGrid", "TabularGrid\TabularGrid.csproj", "{0CC2A851-75FB-4072-978B-02DBE2810FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabularGrid", "TabularGrid\TabularGrid.csproj", "{0CC2A851-75FB-4072-978B-02DBE2810FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridUnits", "GridUnits\GridUnits.csproj", "{51685766-22F1-4DD2-987E-C6B987F70669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridUnits", "GridUnits\GridUnits.csproj", "{51685766-22F1-4DD2-987E-C6B987F70669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpan", "GridColRowSpan\GridColRowSpan.csproj", "{36CFCD67-62CD-49C0-82B8-E0C798E125BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridColRowSpan", "GridColRowSpan\GridColRowSpan.csproj", "{36CFCD67-62CD-49C0-82B8-E0C798E125BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridColRowSpanAdvanced", "GridColRowSpanAdvanced\GridColRowSpanAdvanced.csproj", "{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridColRowSpanAdvanced", "GridColRowSpanAdvanced\GridColRowSpanAdvanced.csproj", "{CCA05DF3-244F-4CD5-827A-15C79F77C3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterSample", "GridSplitterSample\GridSplitterSample.csproj", "{92034BCD-62CA-4C51-9A36-5A18659AAD69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridSplitterSample", "GridSplitterSample\GridSplitterSample.csproj", "{92034BCD-62CA-4C51-9A36-5A18659AAD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterHorizontalSample", "GridSplitterHorizontalSample\GridSplitterHorizontalSample.csproj", "{66F058D9-94B6-42B0-B319-2451D5846385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridSplitterHorizontalSample", "GridSplitterHorizontalSample\GridSplitterHorizontalSample.csproj", "{66F058D9-94B6-42B0-B319-2451D5846385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridContactForm", "GridContactForm\GridContactForm.csproj", "{7CED7840-9CA7-46E3-A031-B723D252CEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridContactForm", "GridContactForm\GridContactForm.csproj", "{7CED7840-9CA7-46E3-A031-B723D252CEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridContactFormTake2", "GridContactFormTake2\GridContactFormTake2.csproj", "{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridContactFormTake2", "GridContactFormTake2\GridContactFormTake2.csproj", "{A4E352D7-BC7A-493D-A646-330DCDD3E3F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitedInputSample", "LimitedInputSample\LimitedInputSample.csproj", "{CE1BC20B-24F6-4C80-97C5-FEC046D8A2AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LimitedInputSample", "LimitedInputSample\LimitedInputSample.csproj", "{CE1BC20B-24F6-4C80-97C5-FEC046D8A2AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBoundWorldSample", "HelloBoundWorldSample\HelloBoundWorldSample.csproj", "{A949B9CC-6C84-4D12-8D62-A83C497EB84A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBoundWorldSample", "HelloBoundWorldSample\HelloBoundWorldSample.csproj", "{A949B9CC-6C84-4D12-8D62-A83C497EB84A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextSample", "DataContextSample\DataContextSample.csproj", "{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContextSample", "DataContextSample\DataContextSample.csproj", "{7C2F1AA8-7A77-4DF0-A9F1-090EA25A65D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBehindBindingsSample", "CodeBehindBindingsSample\CodeBehindBindingsSample.csproj", "{494DD5FD-09FA-4FCE-A8CA-1BD7928BE6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeBehindBindingsSample", "CodeBehindBindingsSample\CodeBehindBindingsSample.csproj", "{494DD5FD-09FA-4FCE-A8CA-1BD7928BE6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeNotificationSample", "ChangeNotificationSample\ChangeNotificationSample.csproj", "{B058DEB7-805C-41AA-A166-6FEC499EB8C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{494DD5FD-09FA-4FCE-A8CA-1BD7928BE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494DD5FD-09FA-4FCE-A8CA-1BD7928BE6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494DD5FD-09FA-4FCE-A8CA-1BD7928BE6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
