@@ -103,6 +103,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeBehindBindingsSample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeNotificationSample", "ChangeNotificationSample\ChangeNotificationSample.csproj", "{B058DEB7-805C-41AA-A166-6FEC499EB8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterSample", "ConverterSample\ConverterSample.csproj", "{EAF030F9-C612-44CC-8D6A-A0D3205B4FFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B058DEB7-805C-41AA-A166-6FEC499EB8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF030F9-C612-44CC-8D6A-A0D3205B4FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF030F9-C612-44CC-8D6A-A0D3205B4FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF030F9-C612-44CC-8D6A-A0D3205B4FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF030F9-C612-44CC-8D6A-A0D3205B4FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
