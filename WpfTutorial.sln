@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterSample", "Converte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatSample", "StringFormatSample\StringFormatSample.csproj", "{DD6A878E-2FA5-4C4A-B8C6-EC7B21B36F89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatCultureSample", "StringFormatCultureSample\StringFormatCultureSample.csproj", "{E00712A2-527D-4D27-8BD1-C2A5FEEC94A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{DD6A878E-2FA5-4C4A-B8C6-EC7B21B36F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6A878E-2FA5-4C4A-B8C6-EC7B21B36F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6A878E-2FA5-4C4A-B8C6-EC7B21B36F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00712A2-527D-4D27-8BD1-C2A5FEEC94A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00712A2-527D-4D27-8BD1-C2A5FEEC94A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00712A2-527D-4D27-8BD1-C2A5FEEC94A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00712A2-527D-4D27-8BD1-C2A5FEEC94A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
