@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandsWithCommandTargetSa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCommandSample", "CustomCommandSample\CustomCommandSample.csproj", "{F8CB7A12-22D3-43BC-AE97-77A0A820555E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxSample", "MessageBoxSample\MessageBoxSample.csproj", "{90F4516A-B0BF-4F28-A26A-E88AC667183C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{F8CB7A12-22D3-43BC-AE97-77A0A820555E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CB7A12-22D3-43BC-AE97-77A0A820555E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CB7A12-22D3-43BC-AE97-77A0A820555E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F4516A-B0BF-4F28-A26A-E88AC667183C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F4516A-B0BF-4F28-A26A-E88AC667183C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F4516A-B0BF-4F28-A26A-E88AC667183C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F4516A-B0BF-4F28-A26A-E88AC667183C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
