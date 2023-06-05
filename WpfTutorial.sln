@@ -111,19 +111,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormatCultureSample",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBindingDebuggingSample", "DataBindingDebuggingSample\DataBindingDebuggingSample.csproj", "{BAE7831C-0FE0-4ECC-BA51-A5241C48A054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCommandsSample", "UsingCommandsSample\UsingCommandsSample.csproj", "{BF8F21ED-3928-48E9-8F59-74631E870AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingCommandsSample", "UsingCommandsSample\UsingCommandsSample.csproj", "{BF8F21ED-3928-48E9-8F59-74631E870AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandCanExecuteSample", "CommandCanExecuteSample\CommandCanExecuteSample.csproj", "{66CB7077-3D9D-43EB-91A7-767ECC8229E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandCanExecuteSample", "CommandCanExecuteSample\CommandCanExecuteSample.csproj", "{66CB7077-3D9D-43EB-91A7-767ECC8229E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandsWithCommandTargetSample", "CommandsWithCommandTargetSample\CommandsWithCommandTargetSample.csproj", "{7798A50B-527D-4AD7-8849-7981AE7F03B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandsWithCommandTargetSample", "CommandsWithCommandTargetSample\CommandsWithCommandTargetSample.csproj", "{7798A50B-527D-4AD7-8849-7981AE7F03B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCommandSample", "CustomCommandSample\CustomCommandSample.csproj", "{F8CB7A12-22D3-43BC-AE97-77A0A820555E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCommandSample", "CustomCommandSample\CustomCommandSample.csproj", "{F8CB7A12-22D3-43BC-AE97-77A0A820555E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxSample", "MessageBoxSample\MessageBoxSample.csproj", "{90F4516A-B0BF-4F28-A26A-E88AC667183C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBoxSample", "MessageBoxSample\MessageBoxSample.csproj", "{90F4516A-B0BF-4F28-A26A-E88AC667183C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFileDialogSample", "OpenFileDialogSample\OpenFileDialogSample.csproj", "{349DA066-4EE1-4BB6-B1F7-A88AFFD4BB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenFileDialogSample", "OpenFileDialogSample\OpenFileDialogSample.csproj", "{349DA066-4EE1-4BB6-B1F7-A88AFFD4BB47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFileDialogMultipleFilesSample", "OpenFileDialogMultipleFilesSample\OpenFileDialogMultipleFilesSample.csproj", "{5825D016-E35C-4D0A-9806-D9FF91CA0816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenFileDialogMultipleFilesSample", "OpenFileDialogMultipleFilesSample\OpenFileDialogMultipleFilesSample.csproj", "{5825D016-E35C-4D0A-9806-D9FF91CA0816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveFileDialogSample", "SaveFileDialogSample\SaveFileDialogSample.csproj", "{C6F71A2B-051D-4F11-83EF-069FEF18998E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +377,10 @@ Global
 		{5825D016-E35C-4D0A-9806-D9FF91CA0816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5825D016-E35C-4D0A-9806-D9FF91CA0816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5825D016-E35C-4D0A-9806-D9FF91CA0816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
