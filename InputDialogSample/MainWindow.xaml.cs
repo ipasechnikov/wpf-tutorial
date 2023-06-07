@@ -24,5 +24,15 @@ namespace InputDialogSample
         {
             InitializeComponent();
         }
+
+        private void btnEnterName_Click(object sender, RoutedEventArgs e)
+        {
+            var inputDialog = new InputDialog(
+                "Please enter your name:", "John Doe"
+            );
+
+            if (inputDialog.ShowDialog() == true)
+                lblName.Text = inputDialog.Answer;
+        }
     }
 }

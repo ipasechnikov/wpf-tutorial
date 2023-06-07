@@ -127,6 +127,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenFileDialogMultipleFiles
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveFileDialogSample", "SaveFileDialogSample\SaveFileDialogSample.csproj", "{C6F71A2B-051D-4F11-83EF-069FEF18998E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputDialogSample", "InputDialogSample\InputDialogSample.csproj", "{2D0576B1-19FA-481D-98C4-9AF77091A780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6F71A2B-051D-4F11-83EF-069FEF18998E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0576B1-19FA-481D-98C4-9AF77091A780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0576B1-19FA-481D-98C4-9AF77091A780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0576B1-19FA-481D-98C4-9AF77091A780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0576B1-19FA-481D-98C4-9AF77091A780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
