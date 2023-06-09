@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSample", "MenuSample\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuIconCheckableSample", "MenuIconCheckableSample\MenuIconCheckableSample.csproj", "{30B1BED7-1040-4381-A82F-EC298E231A9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuWithCommandsSample", "MenuWithCommandsSample\MenuWithCommandsSample.csproj", "{A7220D7C-C419-4415-BCEB-500530360275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{30B1BED7-1040-4381-A82F-EC298E231A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B1BED7-1040-4381-A82F-EC298E231A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B1BED7-1040-4381-A82F-EC298E231A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7220D7C-C419-4415-BCEB-500530360275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7220D7C-C419-4415-BCEB-500530360275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7220D7C-C419-4415-BCEB-500530360275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7220D7C-C419-4415-BCEB-500530360275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
