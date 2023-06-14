@@ -1,0 +1,28 @@
+﻿<Window x:Class="ToolbarIconSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolbarIconSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <DockPanel>
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Command="Cut" ToolTip="Cut selection to Windows Clipboard.">
+                    <Image Source="/ToolbarIconSample;component/Images/cut.png" Width="16" Height="16" />
+                </Button>
+                <Button Command="Copy" ToolTip="Copy selection to Windows Clipboard.">
+                    <Image Source="/ToolbarIconSample;component/Images/copy.png" Width="16" Height="16" />
+                </Button>
+                <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/ToolbarIconSample;component/Images/paste.png" Width="16" Height="16" />
+                        <TextBlock Margin="3,0,0,0">Pate</TextBlock>
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+        <TextBox  AcceptsReturn="True" />
+    </DockPanel>
+</Window>

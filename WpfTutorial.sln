@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuManuallyInvokedS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarSample", "ToolbarSample\ToolbarSample.csproj", "{E096A317-DF67-4AC4-8AEF-7FE5E18BD050}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarIconSample", "ToolbarIconSample\ToolbarIconSample.csproj", "{46D713B2-10CF-4B74-BE69-6B6FD9FC3E26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{E096A317-DF67-4AC4-8AEF-7FE5E18BD050}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E096A317-DF67-4AC4-8AEF-7FE5E18BD050}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E096A317-DF67-4AC4-8AEF-7FE5E18BD050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D713B2-10CF-4B74-BE69-6B6FD9FC3E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D713B2-10CF-4B74-BE69-6B6FD9FC3E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D713B2-10CF-4B74-BE69-6B6FD9FC3E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D713B2-10CF-4B74-BE69-6B6FD9FC3E26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
